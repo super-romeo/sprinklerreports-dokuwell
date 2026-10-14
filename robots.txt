@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sprinklerreports.dokuwell.com/sitemap.xml
